@@ -4,7 +4,7 @@
 	"content": [
 		{
 			"type": "paragraph",
-			"text": "**Ledbetter.Games**\n\n*We make games for the Playdate*\nThe Little Yellow Console with a Crank is a system with charm and limitations.\n1-bit. Limited Inputs. Small screen.\nYet the Playdate is Open and Accessible in ways unique in the gaming industry! Around these limitations we can push interesting gameplay and new controls. We can execute game design quickly and efficiently and we can publish independently or through Panic.\nOur games are primarily sold through the Playdate Catalog and our more experimental titles are available on Itch.io\nLedbetter Games is the Developer of PUP CUP, Off-Planet Dreams and the ART series for the Playdate including ART7, ART-O-Ween, ART&.. More and the Panels Comic A Ghost in the Gallery.\nWe have also released HALL of the DWARF KING, Chek: 2 or 4 Player Board Game and Dog kNOwSE Ch 1 The Dame.",
+			"text": "**Ledbetter.Games**\n\n*We make games for the Playdate.*\nThe Little Yellow Console with a Crank is a system with charm and limitations.\n1-bit. Limited Inputs. Small screen.\nYet the Playdate is Open and Accessible in ways unique in the gaming industry! Around these limitations we can push interesting gameplay and new controls. We can execute game design quickly and efficiently and we can publish independently or through Panic.\nOur games are primarily sold through the Playdate Catalog and our more experimental titles are available on Itch.io\nLedbetter Games is the Developer of PUP CUP, Off-Planet Dreams and the ART series for the Playdate including ART7, ART-O-Ween, ART&.. More and the Panels Comic A Ghost in the Gallery.\nWe have also released HALL of the DWARF KING, Chek: 2 or 4 Player Board Game and Dog kNOwSE Ch 1 The Dame.",
 			"style": {
 				"text-align": "left",
 				"margin-bottom": 30
@@ -72,8 +72,8 @@
 			"type": "list",
 			"items": [
 				"*Peek* - see what is immediately around you",
-				"*Paint* – leave a trail wherever you have touched",
-				"*Show* – fully reveal the level from the B menu"
+				"*Paint* - leave a trail wherever you have touched",
+				"*Show* - fully reveal the level from the B menu"
 			]
 		},
 	        {
