@@ -24,21 +24,21 @@
     },
     {
       "type": "paragraph",
-      "text": "*Coming to Catalog 8/5/2025*\n\n*Your party is stranded in the Dungeon of N'ven. As you come to, you are faced with a number of Creatures you must survive before help comes to you.. if you are worthy!*\n\nThis is a Playdate game built to guide players through a series of encounters as three characters. Playing via Mirror or Pass'n'Play is encouraged for a co-op puzzle crawling experience!\n\nAdditionally, download PDF files to cut and print the Dungeon Screenshot gameboard, Creature Cards and Power Tiles in order to play Hall of the Dwarf King IN REAL LIFE! The Playdate will guide your play, use these materials for visuals and Creature order!\n\nA lightform DnD session administered by a game has long been kicking around my brainpan. This happened to be the perfect opportunity to try it out!",
+      "text": "*OUT NOW on Playdate Catalog!*\n\n*Your party is stranded in the Dungeon of N'ven. As you come to, you are faced with a number of Creatures you must survive before help comes to you.. if you are worthy!*\n\nThis is a Playdate game built to guide players through a series of encounters as three characters. Playing via Mirror or Pass'n'Play is encouraged for a co-op puzzle crawling experience!\n\nAdditionally, download PDF files to cut and print the Dungeon Screenshot gameboard, Creature Cards and Power Tiles in order to play Hall of the Dwarf King IN REAL LIFE! The Playdate will guide your play, use these materials for visuals and Creature order!\n\nA lightform DnD session administered by a game has long been kicking around my brainpan. This happened to be the perfect opportunity to try it out!",
       "style": {
         "text-align": "left",
         "margin-bottom": 30
       }
     },
     {
-      "type": "image",
-      "width": 37,
-      "height": 37,
-      "pixels": "yl yl yl yl dGcAaBbAbBaGd dAeAbEaAaBaAaAeAd dAaCaAaAcAaCcAaAaCaAd dAaCaAaBaAcAaBcAaCaAd dAaCaAaAbCbEaAaCaAd dAeAaAaFaAbAaAeAd dGaAaAaAaAaAaAaAaGd lBaCaBaAaAl dAaEbAbAaDaAbEf dEcBaAdIcAd dAbAbAaAaAaAbBaAaAl gAeCbAaAgBaAe dAaCaAaAaBeAgBf dDaAbAcCaAbBaCcAd dCaEbEdAcCf eAaBdAcAaAbDaBbAe eBaAaAdBaAbAgBf dCaAdAaBcAaCaCaAaAd dAcGaAbDaAbBaAf dAaBaAaAbAcAaAcBaBbAe dAeAdAeAaFaCd lAaAaCbBaAcEd dGbAaFaCaAaCf dAeAaAdAbAaAaAcAh dAaCaAaEaAbBaEaAf dAaCaAaBaBcCaAdDd dAaCaAaBbFcGe dAeAeDbCcBaAe dGaBaAaAcAaAcAbAf yl yl yl yl",
-      "style": {
-        "scale": 3
-      }
-    },
+	"type": "image",
+	"width": 41,
+	"height": 41,
+	"pixels": "yp yp yp yp dGdAdAaCbAbGd dAeAbCcBaAaAaAaAaAeAd dAaCaAaAaCaCcBaAbAaCaAd dAaCaAaDfBbCaAaCaAd dAaCaAaIcBaAbAaCaAd dAeAaDaBdAaBcAeAd dGaAaAaAaAaAaAaAaAaAaGd lBaAbAaAbCbAl dAaEdAaBbAaAbCaEf eBfCaAcAaCaBaBaBaAd eAbCaDaCaAbAaAeAaBe eCaAbAaDaDbBaBbCf dAaBaBaAbBaAaAcAbCaCaAe gCiAbAbAaAaBdBd fBaBcAaAbDaBcBaAaBe fAdBaBaCeFbBf gAbBcAcAaBcBaAaBcAd fAbAdAeAaCaBaCaDd hAaBaAaAaCbAaAaAdBaBe dEbAbBbCbDaAaFe eBcAbAaDcAbAbBbBaBd dCaAbAgCbBaAbAbBaAd dAaBbBbBbAbAaAaBdAaCe dAaCbFaAaAbChCd dAbAaEaAeAaAbGbBd lAaBaAbEcAcAaAaAd dGbDbCbAaCaAaAaAf dAeAaDbBaDbBcCaAd dAaCaAaAaAbAaBbDaFaAe dAaCaAaAaAaBaAaBbAbBbBbAd dAaCaAaCaEaAaDbBaBf dAeAbBbCbAbBbAbCf dGaEbAaAfAaBcAe yp yp yp yp",
+	"style": {
+		"scale": 3
+	}
+}
     {
       "type": "image",
       "width": 380,
@@ -117,3 +117,4 @@
     }
   ]
 }
+
