@@ -30,7 +30,7 @@
         "margin-bottom": 30
       }
     },
-    {
+	{
 		"type": "image",
 		"width": 41,
 		"height": 41,
@@ -117,5 +117,6 @@
     }
   ]
 }
+
 
 
