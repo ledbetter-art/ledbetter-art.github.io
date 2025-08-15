@@ -31,14 +31,14 @@
       }
     },
     {
-	"type": "image",
-	"width": 41,
-	"height": 41,
-	"pixels": "yp yp yp yp dGdAdAaCbAbGd dAeAbCcBaAaAaAaAaAeAd dAaCaAaAaCaCcBaAbAaCaAd dAaCaAaDfBbCaAaCaAd dAaCaAaIcBaAbAaCaAd dAeAaDaBdAaBcAeAd dGaAaAaAaAaAaAaAaAaAaGd lBaAbAaAbCbAl dAaEdAaBbAaAbCaEf eBfCaAcAaCaBaBaBaAd eAbCaDaCaAbAaAeAaBe eCaAbAaDaDbBaBbCf dAaBaBaAbBaAaAcAbCaCaAe gCiAbAbAaAaBdBd fBaBcAaAbDaBcBaAaBe fAdBaBaCeFbBf gAbBcAcAaBcBaAaBcAd fAbAdAeAaCaBaCaDd hAaBaAaAaCbAaAaAdBaBe dEbAbBbCbDaAaFe eBcAbAaDcAbAbBbBaBd dCaAbAgCbBaAbAbBaAd dAaBbBbBbAbAaAaBdAaCe dAaCbFaAaAbChCd dAbAaEaAeAaAbGbBd lAaBaAbEcAcAaAaAd dGbDbCbAaCaAaAaAf dAeAaDbBaDbBcCaAd dAaCaAaAaAbAaBbDaFaAe dAaCaAaAaAaBaAaBbAbBbBbAd dAaCaAaCaEaAaDbBaBf dAeAbBbCbAbBbAbCf dGaEbAaAfAaBcAe yp yp yp yp",
-	"style": {
-		"scale": 3
-	}
-}
+		"type": "image",
+		"width": 41,
+		"height": 41,
+		"pixels": "yp yp yp yp dGdAdAaCbAbGd dAeAbCcBaAaAaAaAaAeAd dAaCaAaAaCaCcBaAbAaCaAd dAaCaAaDfBbCaAaCaAd dAaCaAaIcBaAbAaCaAd dAeAaDaBdAaBcAeAd dGaAaAaAaAaAaAaAaAaAaGd lBaAbAaAbCbAl dAaEdAaBbAaAbCaEf eBfCaAcAaCaBaBaBaAd eAbCaDaCaAbAaAeAaBe eCaAbAaDaDbBaBbCf dAaBaBaAbBaAaAcAbCaCaAe gCiAbAbAaAaBdBd fBaBcAaAbDaBcBaAaBe fAdBaBaCeFbBf gAbBcAcAaBcBaAaBcAd fAbAdAeAaCaBaCaDd hAaBaAaAaCbAaAaAdBaBe dEbAbBbCbDaAaFe eBcAbAaDcAbAbBbBaBd dCaAbAgCbBaAbAbBaAd dAaBbBbBbAbAaAaBdAaCe dAaCbFaAaAbChCd dAbAaEaAeAaAbGbBd lAaBaAbEcAcAaAaAd dGbDbCbAaCaAaAaAf dAeAaDbBaDbBcCaAd dAaCaAaAaAbAaBbDaFaAe dAaCaAaAaAaBaAaBbAbBbBbAd dAaCaAaCaEaAaDbBaBf dAeAbBbCbAbBbAbCf dGaEbAaAfAaBcAe yp yp yp yp",
+		"style": {
+			"scale": 3
+		}
+	},
     {
       "type": "image",
       "width": 380,
@@ -117,4 +117,5 @@
     }
   ]
 }
+
 
