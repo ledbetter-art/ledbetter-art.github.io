@@ -17,9 +17,9 @@
       }
     },
     {
-			"type": "button",
-			"label": "Emo Sludge - Physical World Collection",
-			"action": "/east-emosludge"
-		},
+		"type": "button",
+		"label": "Emo Sludge - Physical World Collection",
+		"action": "/east-emosludge"
+	},
   ]
 }
