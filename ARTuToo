@@ -19,7 +19,7 @@
     {
 		"type": "button",
 		"label": "Emo Sludge - Physical World collection",
-		"action": "/east-emosludge"
+		"action": "/east/emosludge"
 	},
   ]
 }
