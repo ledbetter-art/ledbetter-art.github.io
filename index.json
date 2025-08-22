@@ -16,6 +16,11 @@
         "margin-bottom": 30
       }
     },
+	{
+		"type": "button",
+		"label": "ARTuTOO",
+		"action": "/ARTuToo"
+	},
     {
       "type": "image",
       "width": 380,
@@ -117,6 +122,7 @@
     }
   ]
 }
+
 
 
 
