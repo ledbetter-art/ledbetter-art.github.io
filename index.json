@@ -16,6 +16,14 @@
         "margin-bottom": 30
       }
     },
+  	{
+      "type": "paragraph",
+      "text": "*There is a NEW Project in the works for Constellation Browser!*\n\nWe are producing a new ARTtOO to showcase ART from Playdate and Beyond! Check out a sample page at the button and look forward to a full gallery experience soon!",
+      "style": {
+        "text-align": "left",
+        "margin-bottom": 30
+      }
+    },	  
 	{
 		"type": "button",
 		"label": "ARTuTOO",
@@ -122,6 +130,7 @@
     }
   ]
 }
+
 
 
 
