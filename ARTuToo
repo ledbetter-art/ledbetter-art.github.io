@@ -10,11 +10,16 @@
     },
     {
       "type": "paragraph",
-      "text": "*Under Construction*\n\nThis will be the home of a new *ARTuToo* where we hope to showcase pixel or ascii art from the Playdate community.",
+      "text": "*Under Construction*\n\nThis will be the home of a new *ARTuToo* showcasing pixel or ascii art from the Playdate community and Beyond!",
       "style": {
         "text-align": "left",
         "margin-bottom": 30
       }
     },
+    {
+			"type": "button",
+			"label": "Emo Sludge - Physical World Collection",
+			"action": "/east-emosludge"
+		},
   ]
 }
