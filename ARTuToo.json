@@ -20,7 +20,12 @@
       "type": "button",
       "label": "Emo Sludge - Physical World collection",
       "action": "/east/emosludge"
-	  },
+	},
+    {
+      "type": "button",
+      "label": "Austin Serr - EYE-to-EYE",
+      "action": "/east/clap_clapp"
+	},
     {
       "type": "paragraph",
       "text": "Testing a Long image:",
