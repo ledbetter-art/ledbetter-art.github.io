@@ -16,16 +16,33 @@
         "margin-bottom": 30
       }
     },
+	   {
+      "type": "paragraph",
+      "text": "*WEST* - GAMES",
+      "style": {
+        "text-align": "left",
+        "margin-bottom": 30
+      }
+    },
+	    {
+      "type": "button",
+      "label": "Austin Serr - EYE-to-EYE",
+      "action": "/west/clap_clapp"
+	},
+	   {
+      "type": "paragraph",
+      "text": "*EAST* - ARTISTS",
+      "style": {
+        "text-align": "left",
+        "margin-bottom": 30
+      }
+    },
     {
       "type": "button",
       "label": "Emo Sludge - Physical World collection",
       "action": "/east/emosludge"
 	},
-    {
-      "type": "button",
-      "label": "Austin Serr - EYE-to-EYE",
-      "action": "/east/clap_clapp"
-	},
+  
     {
       "type": "button",
       "label": "Zeno De Ridder",
