@@ -4,7 +4,7 @@
   "content": [
 	      {
       "type": "paragraph",
-      "text": "My name is *Zeno De Ridder* and I am a 31-years-old, Brussels based artist who's passionate about art and storytelling. I've always been interested n experimenting with different ways to tell stories and I love to design unconventional visual styles to support those stories. Ten years ago I got my degree in udiovisual arts and since then I've dabbled my toes in many different art disciplines ranging from animation, illustration, film and theater to documentary, music and most recently game development. (Under the name Pixel Potemkin)",
+      "text": "My name is *Zeno De Ridder* and I am a 31-years-old, Brussels-based artist who's passionate about art and storytelling. I've always been interested n experimenting with different ways to tell stories and I love to design unconventional visual styles to support those stories. Ten years ago I got my degree in audiovisual arts and since then I've dabbled my toes in many different art disciplines ranging from animation, illustration, film and theater to documentary, music and most recently game development. (Under the name Pixel Potemkin)",
           "style": {
         "text-align": "left",
         "margin-bottom": 10
@@ -110,8 +110,8 @@
         "text-align": "left",
         "margin-bottom": 30
       }
-    },
-	  {
+},
+	{
 	"type": "image",
 	"width": 392,
 	"height": 172,
@@ -140,19 +140,16 @@
 
 
 	  
-    
-    {
-      "type": "separator"
-    },	  
+  
     {
       "type": "paragraph",
-      "text": "*Austin Serr* is a Los Angeles-based artist whose background is mainly in filmmaking. He is a cinematographer who has shot several feature-length and short films as well as commercials, documentaries, and music videos. He's also had a passion for video games and an interest in game design for years and has decided to finally take the plunge beyond his Super Mario Maker roots to make his first game with *Eye to Eye*.",
+      "text": "Those interested in seeing more about my art gallery project for playdate can check out following link:",
       "style": {
         "text-align": "left",
         "margin-bottom": 30
       }
-    },      
-	    {
+},      
+	{
       "type": "button",
       "label": "The D.B. Keplar Art Gallery",
       "action": "/west/dbKeplar"
