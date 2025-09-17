@@ -27,6 +27,11 @@
       "action": "/east/clap_clapp"
 	},
     {
+      "type": "button",
+      "label": "Zeno De Ridder",
+      "action": "/east/cosini_22"
+	},
+    {
       "type": "paragraph",
       "text": "Testing a Long image:",
       "style": {
