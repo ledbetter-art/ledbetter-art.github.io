@@ -213,6 +213,21 @@
 		"style": {
 			"scale": 3
 		}
-	}	  
+	},
+    {
+      "type": "button",
+      "label": "North-Emo Sludge - Physical World collection",
+      "action": "/east/emosludge"
+	},
+	    {
+      "type": "button",
+      "label": "West-Ware-wolf Campfire Stories",
+      "action": "/west/ware-wolf"
+	},
+    {
+      "type": "button",
+      "label": "Zeno De Ridder",
+      "action": "/east/zenoDeRidder"
+	} 
   ]
 }
