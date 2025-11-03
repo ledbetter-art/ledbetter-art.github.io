@@ -194,12 +194,12 @@
 	},
 	  {
       "type": "button",
-      "label": "Gallery Foyer",
+      "label": "Gallery Landing",
       "action": "/ARTuToo"
 	},
 	   {
       "type": "button",
-      "label": "D.B. Keplar Art Gallery",
+      "label": "South-D.B. Keplar Art Gallery",
       "action": "/west/dbKeplar"
 	}
   ]
