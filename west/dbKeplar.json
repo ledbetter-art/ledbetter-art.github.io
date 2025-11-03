@@ -105,10 +105,20 @@
                 "margin-bottom": 30
             }
         },
+	    {
+      "type": "button",
+      "label": "North-Austin Serr - EYE-to-EYE",
+      "action": "/west/clap_clapp"
+	},
         {
             "type": "button",
-            "label": "Zeno De Ridder",
+            "label": "East-Zeno De Ridder",
             "action": "/east/zenoDeRidder"
-        }
+        },
+           {
+      "type": "button",
+      "label": "South-Ware-wolf Campfire Stories",
+      "action": "/west/ware-wolf"
+	}
     ]
 }
