@@ -106,7 +106,17 @@
 	"pixels": "yl yl yl yl dGcBaAeBaGd dAeAcAcEaAaAeAd dAaCaAaAbBaCcAaAaCaAd dAaCaAaDaCaBcAaCaAd dAaCaAaAaAcAaEaAaCaAd dAeAaAbAaCaAbAaAeAd dGaAaAaAaAaAaAaAaGd lAaBbAcAaAl dAaEdAaEaAbEf eAbBfBbIcAd fBbAbBbDaAaAl dAaAaAeAaAaBhBaAe dAaBbBaAcCaAgBf dBaCaBdAbAbBaCcAd hAaAaAeCcAcCf fBfCcAaDaBbAe eAbEaBaEgBf dAaCbAaDcAaCaCaAaAd dAaAaCaAaBaFaAbBaAf dAaAbAaAaAaAdAcBaBbAe dAbDaAaAaAdAaFaCd lAdAcBaAcEd dGbBaEaCaAaCf dAeAaAcBbAaAaAcAh dAaCaAaCaAaAbBaEaCd dAaCaAaDdCaAdDd dAaCaAaAaBaAaCcGe dAeAdAcAbCcBaAe dGaAaAaCbAaAcAbAf yl yl yl yl",
 	"style": {
 		"scale": 3
-	}
+	},
+	    {
+      "type": "button",
+      "label": "North-D.B. Keplar Art Gallery",
+      "action": "/west/dbKeplar"
+	},
+    {
+      "type": "button",
+      "label": "East-Emo Sludge - Physical World collection",
+      "action": "/east/emosludge"
+	},
 }
   ]
 }
