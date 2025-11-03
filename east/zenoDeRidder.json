@@ -217,10 +217,20 @@
                 "margin-bottom": 30
             }
         },
+    {
+      "type": "button",
+      "label": "North-Ledbetter - Pieces of Me",
+      "action": "/east/ledbetter-pulls"
+	},
         {
             "type": "button",
-            "label": "The D.B. Keplar Art Gallery",
+            "label": "West-The D.B. Keplar Art Gallery",
             "action": "/west/dbKeplar"
-        }
+        },
+    {
+      "type": "button",
+      "label": "Ledbetter - Tokyo Travelogue",
+      "action": "/east/ledbetter-inJapan"
+	}		
     ]
 }
