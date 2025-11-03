@@ -199,6 +199,16 @@
     	"style": {
     		"scale": 3
     	}
-    }
+    },
+	  {
+      "type": "button",
+      "label": "Gallery Landing",
+      "action": "/ARTuToo"
+	},
+    {
+      "type": "button",
+      "label": "South-Ledbetter - Pieces of Me",
+      "action": "/east/ledbetter-pulls"
+	}
   ]
 }
