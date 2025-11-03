@@ -58,6 +58,11 @@
       "action": "/east/ledbetter-pulls"
 	},
     {
+      "type": "button",
+      "label": "Ledbetter - Tokyo Travelogue",
+      "action": "/east/ledbetter-inJapan"
+	},
+    {
       "type": "paragraph",
       "text": "Testing a Long image:",
       "style": {
