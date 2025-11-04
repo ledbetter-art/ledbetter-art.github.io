@@ -209,9 +209,12 @@
                 "margin-bottom": 10
             }
         },
+    {
+      "type": "separator"
+    },	  
         {
             "type": "paragraph",
-            "text": "Those interested in seeing more about my art gallery project for playdate can check out the following link:",
+            "text": "Those interested in seeing more about my art gallery project for playdate can check out the D.B. Keplar Art Gallery",
             "style": {
                 "text-align": "left",
                 "margin-bottom": 30
