@@ -231,6 +231,9 @@
 	}
 },
     {
+      "type": "separator"
+    },	  
+    {
       "type": "button",
       "label": "North-Zeno De Ridder",
       "action": "/east/zenoDeRidder"
@@ -244,7 +247,6 @@
       "type": "button",
       "label": "West-Austin Serr - EYE-to-EYE",
       "action": "/west/clap_clapp"
-	}
-	  
+	}	  
   ]
 }
