@@ -226,7 +226,7 @@
 	},
     {
       "type": "button",
-      "label": "Zeno De Ridder",
+      "label": "South-Zeno De Ridder",
       "action": "/east/zenoDeRidder"
 	} 
   ]
