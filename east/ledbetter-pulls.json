@@ -215,6 +215,9 @@
 		}
 	},
     {
+      "type": "separator"
+    },	  
+    {
       "type": "button",
       "label": "North-Emo Sludge - Physical World collection",
       "action": "/east/emosludge"
