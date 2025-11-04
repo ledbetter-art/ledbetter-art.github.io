@@ -229,7 +229,7 @@
         },
     {
       "type": "button",
-      "label": "Ledbetter - Tokyo Travelogue",
+      "label": "South-Ledbetter - Tokyo Travelogue",
       "action": "/east/ledbetter-inJapan"
 	}		
     ]
