@@ -66,6 +66,17 @@
       "type": "button",
       "label": "Ledbetter - Tokyo Travelogue",
       "action": "/east/ledbetter-inJapan"
-	}
+	},
+    {
+      "type": "separator"
+    },		  
+    {
+      "type": "paragraph",
+      "text": "*Header Image - Frame 1 of My Heart is a Jack Rabbit*\n\nby Chelsea McGovern ( ig: chelseavagabond)\n\nmedium: pixel art (Aesprite)\n\nRun, (run!) little jack rabbit run!\n\nAnimals, (animals!) they kill things for fun!\n\nRun, (run!) little jack rabbit run!\n\nThe Coyote (coyote!) cackles against the setting sun - \n\n'Run, (run!) little jack rabbit run\n\nThere won’t (there won’t!) be nothing left when we’re done!'",
+      "style": {
+        "text-align": "left",
+        "margin-bottom": 30
+      }
+    }
   ]
 }
