@@ -78,6 +78,14 @@
         "margin-bottom": 30
       }
     },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "button",
+      "label": "External Gallery - David Hepworth",
+      "action": "https://dhepworth.com/gallery"
+	},
 	{
 		"type": "image",
 		"width": 37,
