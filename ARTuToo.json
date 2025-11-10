@@ -72,11 +72,20 @@
     },		  
     {
       "type": "paragraph",
-      "text": "*Header Image - Frame 1 of My Heart is a Jack Rabbit*\n\nby Chelsea McGovern ( ig: chelseavagabond)\n\nmedium: pixel art (Aesprite)\n\nRun, (run!) little jack rabbit run!\n\nAnimals, (animals!) they kill things for fun!\n\nRun, (run!) little jack rabbit run!\n\nThe Coyote (coyote!) cackles against the setting sun - \n\n'Run, (run!) little jack rabbit run\n\nThere won’t (there won’t!) be nothing left when we’re done!'",
+      "text": "*Header Image - Frame 1 of My Heart is a Jack Rabbit*\nby Chelsea McGovern ( ig: chelseavagabond)\nmedium: pixel art (Aesprite)\n\nRun, (run!) little jack rabbit run!\n\nAnimals, (animals!) they kill things for fun!\n\nRun, (run!) little jack rabbit run!\n\nThe Coyote (coyote!) cackles against the setting sun - \n\n'Run, (run!) little jack rabbit run\n\nThere won’t (there won’t!) be nothing left when we’re done!'",
       "style": {
         "text-align": "left",
         "margin-bottom": 30
       }
-    }
+    },
+	{
+		"type": "image",
+		"width": 37,
+		"height": 37,
+		"pixels": "yl yl yl yl dGdBcAaCaGd dAeAbAeDcAeAd dAaCaAaAcAaAaAbBaAaCaAd dAaCaAaAcDaAaAbAaCaAd dAaCaAaAgDbAaCaAd dAeAaAaAaBaCbAaAeAd dGaAaAaAaAaAaAaAaGd lAaAaAbAdAl dAaEbBaDaAaAbEf eCcBaBaAbIcAd eBcCcDdCj dAbBeCaAaAfAaAaAe dDaBaAcGfBf fDbBcAbGaAcAd dDaBfEdBaBf dAbAaAcBaAbAcAaDbAe fAaAaAfCaAbAbAaBf dAaCgAcAaCaCaAaAd dAbBaAaCcEaBaAbAf dAgCdBbBaCbAe dAbAbCaDaAaAbEaCd lAaAaBbCaAcEd dGeEaCaAaCf dAeAaAeAcCcAbBd dAaCaAaAaAdCbEaCd dAaCaAaAaBaAbAaBcAaDd dAaCaAaAbAbBfFe dAeAbAaCaBcAbAaAaAe dGaDaBbAaAaAaDf yl yl yl yl",
+		"style": {
+			"scale": 3
+		}
+	}
   ]
 }
